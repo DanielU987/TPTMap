@@ -10,7 +10,7 @@ Backend: Gabriel Joe Github: [DrigsterI](https://github.com/DrigsterI)
 
 Map features dev:
 
-- Daniel Ussov Github: [DanielUssov](https://github.com/DanielUssov)
+- Daniel Ussov Github: [DanielUssov](https://github.com/DanielU987)
         
 - Mark Jaromisin Github: [ImAMLazy](https://github.com/ImAMLazy)
 
